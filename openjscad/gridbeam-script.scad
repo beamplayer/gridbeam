@@ -1,6 +1,6 @@
 Let's say instead we put something like this in the mcad/gridbeam script:
 
-// A segment is starts from 'the middle between 2 holes + the whole itself + the next middle between 2 holes' 
+// A segment starts from 'the middle between 2 holes + the whole itself + the next middle between 2 holes' 
 // Consequently, a segment equals the width of the beam (so one, one-and-a-half, or two inch with imperial gridbeam, or 25, 40 or 50 mm with metric grdbeam)
 
 entered length / entered beam_width = number_of_segments
