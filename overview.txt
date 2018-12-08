@@ -18,6 +18,8 @@ Links
 * [http://synergyii.com/Quikstix/index.html Quikstix page (gridbeam company of the jergensons)]
 * [https://8020.net/university-readytube 80/20 Inc Ready Tube], [https://www.mcmaster.com/Standard-Bolt-Together-Structural-Framing McMaster-Carr Bolt-Together Framing], [http://www.atc-mechanical.com/telespar/square-sign-post/ Allied Tube Telespar and Quick-Punch], [http://www.atc-mechanical.com/mechanical-tubing/square-fit-steel-tubing/ Allied Tube Square-Fit], [http://www.s-squaretube.com/Products/ProductDetails/tabid/85/ProductID/13/Default.aspx S-Square Square Post Perforated], [http://www.unistrut.us/DB/PDF1/Uni_Telespar.pdf Unistrut Telespar], Ultimate Highway Products Ulti-Mate steel highway sign posts: gridbeam-like products
 * [http://www.unistrut.us/index.php?WP=cat_detail&S=S03&P=P9000 Unistrut Telestrut]: gridbeam-like but with a different hole spacing so incompatible
+* [http://farmhack.org/tools/modular-building-systems Farm tools construction using gridbeam]
+* [https://3dwarehouse.sketchup.com/search/?q=gridbeam Gridbeam models at 3d warehouse]
 * [http://wiki.p2pfoundation.net/Grid_Beam gridbeam page at P2PF]
 * [https://www.replimat.org/ Replimat: gridbeam community]
 * [http://www.gridbeamsolutions.com The paper book], and [https://www.newsociety.com/Books/H/How-to-Build-With-Grid-Beam-PDF the e-book]
