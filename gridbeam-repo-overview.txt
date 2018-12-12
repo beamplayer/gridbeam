@@ -1,0 +1,11 @@
+Why this repo ?
+You probably noticed in the gridbeam book that most gridbeamers just make a sketch on a piece of paper and then 
+work out the design in real life. So you may wonder why we made a github repo. Answer to this is that we want to give gridbeamers 
+a place to post their gridbeam 3D models and thus share their designs, and cooperate on making them better.
+In addition to this, we are also keen on improving the gridbeam system; to this end we worked out a metric gridbeam version 
+(see https://github.com/beamplayer/gridbeam/blob/master/openjscad/gridbeam-script.scad ) and we are also coming up with things such 
+as an improvement for the gears/transmission system (see   
+
+Which 3D modelling tools to use ?
+Mainly using openjscad (https://openjscad.org/), but openscad, freecad and sketchup is also possible.
+We are also looking at the possibility to make openjscad a bit easier to work with (see https://github.com/jscad/OpenJSCAD.org/issues/409 ).
