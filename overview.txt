@@ -50,8 +50,10 @@ Official links:
 * [https://www.newsociety.com/Books/H/How-to-Build-With-Grid-Beam-PDF the e-book]
 * [http://synergyii.com/Quikstix/index.html Quikstix page (gridbeam company of the jergensons)]
 
-Our links
+Gridbeam communities links
 * [https://www.replimat.org/ Replimat: our gridbeam community]
+* [https://github.com/timschmidt Tim's page at github]
+* [https://wiki.opensourceecology.org/wiki/Gridbeam Gridbeam page at OSE]
 * [http://wiki.p2pfoundation.net/Grid_Beam gridbeam page at P2PF]
 
 gridbeam-like products:
