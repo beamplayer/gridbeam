@@ -1,3 +1,7 @@
+// This is a upgraded version of Tim's https://github.com/openscad/MCAD/blob/master/gridbeam.scad
+// Unlike Tim's version (intented for openscad), we're focusing on using this with openjscad
+// The https://github.com/jscad/openscad-openjscad-translator is used to convert parts of Tim's original script
+
 Let's say instead we put something like this in the mcad/gridbeam script:
 
 // A segment starts from 'the middle between 2 holes + the whole itself + the next middle between 2 holes' 
