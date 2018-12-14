@@ -7,6 +7,12 @@ In addition to this, we are also keen on improving the gridbeam system; to this 
 as an improvement for the gears/transmission system (see https://github.com/beamplayer/gridbeam/tree/master/transmission_systems/2speed_transmission ), ... 
 The orginal gears/transmission system mentioned by the Jergensons was to use a belt on pulleys which could be manually moved to change gears. However, this meant you not only needed to stop te vehicle but also move the belt yourself (and get your hands dirty). By using the 2speed transmission, this problem is avoided. Another option is to use a continuously variable transmission.
 
+What gridbeam designs are we targeting ?
+Any. It can go from simple furniture designs to the more complex vehicle designs.
+Regardless of the design type, we aim at designs which are as simple as possible.
+This means: making them with the least amount of beams, avoiding the use of any motors (use mechanical parts, and contraptions
+where needed), and keep everything as light-weight as possible.
+
 Which 3D modelling tools to use ?
 Mainly using openjscad (https://openjscad.org/), but openscad, freecad and sketchup is also possible.
 We are also looking at the possibility to make openjscad a bit easier to work with (see https://github.com/jscad/OpenJSCAD.org/issues/409 ).
