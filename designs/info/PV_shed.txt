@@ -1,1 +1,23 @@
+A simple gridbeam shed outfitted with PV panels on the roof to recharge the battery of an electric vehicle parked inside it. 
+The shed is stand-alone so does not require a power line to be layed towards it. Also, since the power comes from a PV panel, 
+you are certain that your vehicle is recharged using only renewable power (when recharging from the grid, you can't be certain of
+this. The amount of PV panels placed on the roof depend on what vehicle battery needs to be recharged with it, the time frame
+against which it needs to be recharged and the location of the shed (countries near the equator get more hours of sunlight, at even 
+greater intensity upto a maximum of about 2000W/h/m²). You can check the numbers at
+https://globalsolaratlas.info/
+https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration
 
+For instance, let's assume we need to charge an electric trike within 24 hours. The electric trike is powered with a Bafang 36V,
+250W rear motor and a 36V 13-17A battery (=468-612 Watt). With a 250W engine, that means 468-612/250= 1,87 to 2,44 hours of riding
+at speeds well above 30 km/h. Range would be between 45-75 km at least (assumption).
+
+The PV shed is located in the Netherlands (which receives at least 2h of sunlight per day @ 1000W/h/m², even in winter). Given the
+cold weather in the Netherlands, we'll ride the trike with a breathable rain jacket (pullover-type) and waterproof pants and also
+include a front fairing/windscreen on the trike.
+We'll assume we're using a single 39" x 65" (=1,58m² panel) with 250W, 36V average output.
+The panel is placed on the shed roof (preferably facing south, tilted at winter angle).
+A 12/24/36/48V MPPT charge controller is placed in the shed, between PV panel and battery.
+We can expect a cost of 375 euro of more for the 1,58 m² PV panel and a cost of 136 to 396 euro for the MPPT charge controller. 
+At 15% efficiency, the PV panel outputs 237 watts per hour, at 20% efficiency, output is 316 watts. 
+With 2 hours of sunshine @ 1000 watt/h/m² that makes 474 - 632 watts, so more than enough to recharge a 36V, 13-17A (=468-612 Watt)
+battery (as we don't expect to lose more than 25% of energy during the charging, and as we also won't discharge it to below 20%).
