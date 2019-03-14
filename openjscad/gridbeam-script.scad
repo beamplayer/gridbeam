@@ -9,55 +9,55 @@ Let's say instead we put something like this in the mcad/gridbeam script:
 
 entered length / entered beam_width = number_of_segments
 
-if gridbeam = wood 
+if gridbeam_type = wood 
 then beam_is_hollow = 0
-if gridbeam = alu
+if gridbeam_type = alu
 then beam_is_hollow = 1 and beam_wall_thickness = 0,3 mm
-if gridbeam = steel
+if gridbeam_type = steel
 then beam_is_hollow = 1 and beam_wall_thickness = 0,24 mm
 
-if gridbeam = imperial
+if gridbeam_units_system = imperial
 then units width = inch
 and units length = feet
 and units beam_hole_diameter = inch
 and units beam_wall_thickness = mm
 
-if gridbeam = imperial and width = 1
+if gridbeam_units_system = imperial and width = 1
 then beam_hole_diameter = 11/32
 
-if gridbeam = imperial and width = 1,5
+if gridbeam_units_system = imperial and width = 1,5
 then beam_hole_diameter = 11/32
 
-if gridbeam = imperial and width = 2
+if gridbeam_units_system = imperial and width = 2
 then beam_hole_diameter = 7/16
 
-if gridbeam = imperial and width = not equal to 1 or 1,5 or 2
+if gridbeam_units_system = imperial and width = not equal to 1 or 1,5 or 2
 then give error = Please enter one of the standard imperial gridbeam
 widths (1 or 1,5 or 2)
 
-if gridbeam = imperial and length = not a multiple of 0,5
+if gridbeam_units_system = imperial and length = not a multiple of 0,5
 then give error = Please enter a multiple of 0,5 for length
 
-if gridbeam = metric
+if gridbeam_units_system = metric
 then units width = millimeter
 and units length = meter
 and units beam_hole_diameter = millimeter
 and units beam_wall_thickness = mm
 
-if gridbeam = metric and width = 25
+if gridbeam_units_system = metric and width = 25
 then beam_hole_diameter = 7
 
-if gridbeam = metric and width = 40
+if gridbeam_units_system = metric and width = 40
 then beam_hole_diameter = 10
 
-if gridbeam = metric and width = 50
+if gridbeam_units_system = metric and width = 50
 then beam_hole_diameter = 13
 
-if gridbeam = metric and width = not equal to 25 or 40 or 50
+if gridbeam_units_system = metric and width = not equal to 25 or 40 or 50
 then give error = Please enter one of the standard metric gridbeam
 widths (25 or 40 or 50)
 
-if gridbeam = metric and length = not a multiple of either 0,2 or 0,5
+if gridbeam_units_system = metric and length = not a multiple of either 0,2 or 0,5
 then give error = Please enter a multiple of 0,2 or 0,5 for length
 
 and in the model script in openscad we can then for example type
