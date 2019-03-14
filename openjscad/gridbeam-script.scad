@@ -54,10 +54,10 @@ than give error = Please enter a multiple of 0,2 or 0,5 for length
 and in the model script in openscad we can then for example type
 following command instead:
 
-xBeam imperial 1 4,5
-this would create a horizontal gridbeam with 1 inch width and 4,5 feet
+xBeam imperial wood 1 4,5
+this would create a wooden horizontal gridbeam with 1 inch width and 4,5 feet
 length
 
 When typing
-xBeam metric 25 1,2
-it would create a horizontal gridbeam with 25 mm width and 1,2 m length
+xBeam metric alu 25 1,2
+it would create a horizontal aluminium gridbeam with 25 mm width and 1,2 m length
