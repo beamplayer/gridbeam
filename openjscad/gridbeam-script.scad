@@ -32,7 +32,7 @@ than give error = Please enter a multiple of 0,5 for length
 
 if gridbeam = metric
 than units width = millimeter
-and units length = centimeter
+and units length = meter
 and units beam_hole_diameter = millimeter
 
 if gridbeam = metric and width = 25
@@ -48,16 +48,16 @@ if gridbeam = metric and width = not equal to 25 or 40 or 50
 than give error = Please enter one of the standard metric gridbeam
 widths (25 or 40 or 50)
 
-if gridbeam = metric and length = not a multiple of either 20 or 50
-than give error = Please enter a multiple of 20 or 50 for length
+if gridbeam = metric and length = not a multiple of either 0,2 or 0,5
+than give error = Please enter a multiple of 0,2 or 0,5 for length
 
 and in the model script in openscad we can then for example type
 following command instead:
 
-xBeam imperial 1 4
-this would create a horizontal gridbeam with 1inch width and 4 feet
+xBeam imperial 1 4,5
+this would create a horizontal gridbeam with 1 inch width and 4,5 feet
 length
 
 When typing
-xBeam metric 25 120
-it would create a horizontal gridbeam with 25mm width and 120 cm length
+xBeam metric 25 1,2
+it would create a horizontal gridbeam with 25 mm width and 1,2 m length
