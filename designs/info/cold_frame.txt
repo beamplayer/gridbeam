@@ -1,6 +1,7 @@
 A cold-frame modeled after the "Swedish Homestead" cold frame.
 It consists of 2 sides (plyboard, hardboard or ABS plastic, or simply made from 5 wooden boards of 16 cm or 7 inch in height).
 The slope of the sides depends on your location. Use 45° slope at 20° latitude, 50° slope at 30° latitude, 60° slope at 40° latitude, 70° slope at 50° latitude, 80° slope at 60° latitude
+Have the cold frame facing south (in northern hemisphere) and facing south (if you are in the southern hemisphere).
 Wooden gridbeams are used due to the better thermal properties (using alu or steel gridbeams would cool the cold frame).
 The cold frame is best bolted straight unto a building (i.e. wooden shack) so that the back side does not need to be made.
 
