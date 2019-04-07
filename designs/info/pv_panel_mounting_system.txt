@@ -1,0 +1,4 @@
+A single-axis solar tracking mounting system for a 39 inch x 65 inch (or 39 inch x 75 inch) PV panel.
+The long side (39 inch) needs to be placed along the east-west direction.
+An eco-worthy stepper motor and solar tracking (electronics) system is used to tilt the panel.
+This system would be +25% more efficient then a fixed PV mounting system.
