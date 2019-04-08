@@ -1,2 +1,3 @@
 A simple bicycle trailer.
-The adding of a trailer allows for regular bicycles to take along a good amount of freight (i.e. for hauling groceries, ...)
+The adding of a trailer allows for regular bicycles to take along a good amount of freight.
+It is meant to upgrade your regular bicycle into a good yet cheap alternative to cars for hauling groceries, ....
