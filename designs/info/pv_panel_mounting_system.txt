@@ -2,3 +2,8 @@ A single-axis solar tracking mounting system for a 39 inch x 65 inch (or 39 inch
 The long side (39 inch) needs to be placed along the east-west direction.
 An eco-worthy stepper motor and solar tracking (electronics) system is used to tilt the panel.
 This system would be +25% more efficient then a fixed PV mounting system.
+
+When using imperial gridbeam, it can be made 24 inch (=2 foot) high, 42 inch (=3,5 foot) long and 78 inch (=6,5 foot) wide.
+The panel can then be rotated by a stepper motor by putting it on a plywood supported by an axle. 
+The axle needs to be at least 78 inch long (75" for the panel + 1,5" + 1,5" for the beams + space to mount the electric motor).
+By making it this way, the whole has a limited height, which reduces the possibility of damage by wind. 
