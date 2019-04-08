@@ -1,1 +1,2 @@
-
+A simple bicycle trailer.
+The adding of a trailer allows for regular bicycles to take along a good amount of freight (i.e. for hauling groceries, ...)
