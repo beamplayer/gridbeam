@@ -1,1 +1,3 @@
-
+A tricycle somewhat similar to the Rickey Horwitz Thunderbolt tricycle.
+(see http://www.ihpva.org/Projects/PracticalInnovations/tbolt.html)
+The Thunderbolt tricycle is changed in that a fairing is added, along with a back suspension.
