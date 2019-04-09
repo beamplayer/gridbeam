@@ -1,1 +1,5 @@
-Design of a mini monster truck, based on the Mini Moke Shorty (see http://miniclub06.free.fr/?rep_rubrique=moke&page_centre=schmitt). This sports utility vehicle is intented to be used in areas with poor quality roads and should have the same capabilities as the Jeep CJ3A (Blitz Buggy). It is not intented as a mode of transport in areas with good quality roads (use either a tricycle for that or an electric or biofuel-powered tuktuk, ie Terra Motors tuk-tuk in this case -which can attain speeds upto 70 kmph-).
+Design of a mini monster truck, based on the Mini Moke Shorty 
+(see http://miniclub06.free.fr/?rep_rubrique=moke&page_centre=schmitt). 
+This sports utility vehicle is intented to be used in areas with poor quality roads and should have the same capabilities as the Jeep CJ3A (Blitz Buggy).
+It is not intented as a mode of transport in areas with good quality roads (use either a tricycle for that 
+or an electric or biofuel-powered tuktuk, ie Terra Motors tuk-tuk in this case -which can attain speeds upto 70 kmph-).
