@@ -5,7 +5,7 @@ It is not intented as a mode of transport in areas with good quality roads (use 
 or an electric or biofuel-powered tuktuk, ie Terra Motors tuk-tuk in this case -which can attain speeds upto 70 kmph-).
 
 Dimensions:
-The vehicle would be similarin size to the CJ3A (see https://www.kaiserwillys.com/about_willys_jeep_cj3a_history_specs )
+The vehicle would be similar in size to the CJ3A (see https://www.kaiserwillys.com/about_willys_jeep_cj3a_history_specs )
 meaning: 10,25 feet L x 4,5 feet W x 3,08 feet H
 The wheels of a standard CJ3A are 16 inch in diameter, but since we want the monster truck look, this is scaled up to 
 about 1,6x (26 inch). 26 inch is also about the biggest size you can get in garden tractor wheels. Ground clearance of a standard CJ3A is just 9 inch (about 22 cm) so this either needs to be increased too (to 14 inch) or it needs to be completely outside of any wheel arch/chassis.
