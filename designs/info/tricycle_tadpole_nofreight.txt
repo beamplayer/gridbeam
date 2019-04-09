@@ -1,3 +1,5 @@
 A tricycle somewhat similar to the Rickey Horwitz Thunderbolt tricycle.
 (see http://www.ihpva.org/Projects/PracticalInnovations/tbolt.html)
 The Thunderbolt tricycle is changed in that a fairing is added, along with a back suspension.
+It can be fitted with an electric motor if preferred and recharging of the battery can be done at home 
+(see solar_shed.txt for details).
