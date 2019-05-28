@@ -1,5 +1,6 @@
 Improved version of the 1.5 inch aluminium gridbeam set (https://3dwarehouse.sketchup.com/model/59a44de0b3f5694a4ae5e8dc149c74c/15-aluminum-gridbeam-set )
-All metric gridbeam versions (25 mm, 40 mm and 50 mmh) are accurately modeled herein.
+All metric gridbeam versions (25 mm, 40 mm and 50 mm) are accurately modeled herein.
+Only one segment is modelled, so duplicate this segment to make gridbeams.
 For 25 mm gridbeam that means: hole size= 7 mm, bolt size= 6 mm
 For 40 mm gridbeam that means: hole size= 10 mm, bolt size= 9 mm
 For 50 mm gridbeam that means: hole size= 13 mm, bolt size= 12 mm

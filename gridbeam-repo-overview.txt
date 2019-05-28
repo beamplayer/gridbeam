@@ -14,5 +14,5 @@ This means: making them with the least amount of beams, avoiding the use of any 
 where needed), and keep everything as light-weight as possible.
 
 Which 3D modelling tools to use ?
-Mainly using openjscad (https://openjscad.org/), but openscad, freecad and sketchup is also possible.
+Mainly using openjscad (https://openjscad.org/), but openscad, freecad and sketchup free or blender is also possible.
 We are also looking at the possibility to make openjscad a bit easier to work with (see https://github.com/jscad/OpenJSCAD.org/issues/409 ).

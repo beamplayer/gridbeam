@@ -1,0 +1,3 @@
+In this folder, dae's ("collada") are placed (made in sketchup or blender). They can't be read by openscad but they can be converted to .stl (it may be possible to convert to .scad directly too).
+Some official 3D models for gridbeam have been made available (they are downloadable both in .dae and in .stl format), so sketchup/blender is an obvious modelling program, to be used besides openscad and openjscad. It is also easier to use for those that are not experienced in parametric modelling.
+See https://3dwarehouse.sketchup.com/user/0096635206783583643122642/GridbeamSolutionscom?nav=collections
