@@ -9,3 +9,9 @@ For 1.5 inch gridbeam that means: hole size= 11/32 inch (8.73 mm), bolt size= 5/
 For 2 inch gridbeam that means: hole size= 7/16 inch (11.11 mm), bolt size= 3/8 inch (9.52 mm)
 
 Length of the gridbeams is per 1 foot and per 0.5 foot (upto a maximum length of 8 foot)
+
+For coloring:
+Wooden segments: brown
+Alu/steel segments: grey
+Segment surfaces where bolts go through the holes: blue
+Segment surfaces where axles go through the holes: yellow
