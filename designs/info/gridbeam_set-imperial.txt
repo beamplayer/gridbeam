@@ -1,8 +1,11 @@
 Improved version of the 1.5 inch aluminium gridbeam set (https://3dwarehouse.sketchup.com/model/59a44de0b3f5694a4ae5e8dc149c74c/15-aluminum-gridbeam-set )
 All imperial gridbeam versions (1 inch, 1.5 inch and 2 inch) are accurately modeled herein.
+In the sketchup model, the 1 inch cubes are 25.4 mm cubes, 1.5 inch cubes are 38.1 mm cubes and 2 inch cubes are 50.8 mm cubes.
 Only one segment is modelled, so duplicate this segment to make gridbeams.
-For 1 inch gridbeam that means: hole size= 11/32 inch, bolt size=5/16 inch
-For 1.5 inch gridbeam that means: hole size= 11/32 inch, bolt size=5/16 inch
-For 2 inch gridbeam that means: hole size= 7/16 inch, bolt size=3/8 inch
+To learn how to do this in sketchup: see https://www.youtube.com/watch?v=I7jE2XpCnkg
+
+For 1 inch gridbeam that means: hole size= 11/32 inch (8.73 mm), bolt size= 5/16 inch (7.93 mm)
+For 1.5 inch gridbeam that means: hole size= 11/32 inch (8.73 mm), bolt size= 5/16 inch (7.93 mm)
+For 2 inch gridbeam that means: hole size= 7/16 inch (11.11 mm), bolt size= 3/8 inch (9.52 mm)
 
 Length of the gridbeams is per 1 foot and per 0.5 foot (upto a maximum length of 8 foot)
