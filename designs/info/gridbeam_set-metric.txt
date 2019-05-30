@@ -10,7 +10,9 @@ For 50 mm gridbeam that means: hole size= 13 mm, bolt size= 12 mm
 Length of the gridbeams is per 1 meter and per 0.5 meter and per 0.2 meter (upto a maximum length of 2,4 meter)
 
 For coloring:
-Wooden segments: brown
+Wooden segments: brown (in sketchup, the brown is "0036 brown"
 Alu/steel segments: grey
 Segment surfaces where bolts go through the holes: blue
 Segment surfaces where axles go through the holes: yellow
+The segment surfaces where bolts go through are colored in blue so that no actual bolts need to be modeled out
+Holes: "0137 black" (in sketchup, holes are drawn on cube, no surfaces are deleted)
