@@ -5,14 +5,16 @@ Have the cold frame facing south (in northern hemisphere) and facing south (if y
 Wooden gridbeams are used due to the better thermal properties (using alu or steel gridbeams would cool the cold frame).
 The cold frame is best bolted straight unto a building (i.e. wooden shack) so that the back side does not need to be made.
 
-Bill of Materials (imperial version):
-4 wooden gridbeams of 3 foot in length
-1 wooden gridbeam of 8 foot in length
+Bill of Materials (imperial version, 1.5 inch GB):
+2 wooden gridbeams of 3 foot in length
+2 wooden gridbeams of 3,5 foot in length
+2 wooden gridbeams of 8 foot in length
 2 sides (see above)
 flexible (roll-up) plastic
 
-Bill of Materials (metric version):
-4 wooden gridbeams of 0,8 meter in length
-1 wooden gridbeam of 2,4 meter in length
+Bill of Materials (metric version, 40mm GB):
+2 wooden gridbeams of 1 meter in length
+2 wooden gridbeams of 1,2 meter in length
+2 wooden gridbeams of 2,4 meter in length
 2 sides (see above)
 flexible (roll-up) plastic

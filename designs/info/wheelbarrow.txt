@@ -2,18 +2,18 @@ A deconstructable wheelbarrow.
 The tray can be made by bolting ABS plastic boards directly to the the tray frame or you can simply buy a plastic tray.
 A shop-bought tray has the advantage of being detachable, which can come in handy for weeding, ...
 
-Bill of Materials (imperial version):
-4 aluminium gridbeams of 4 foot in length
-6 aluminium gridbeams of 1,5 foot in length
+Bill of Materials (imperial version, 1.5 inch GB):
+4 gridbeams of 4 foot in length
+6 gridbeams of 1,5 foot in length
 2 pillow block bearings
 an axle and wheel
-4 ABS plastic boards or shop-bought plastic tray
+4 wooden or ABS plastic boards or shop-bought plastic tray
 nuts and bolts
 
-Bill of Materials (metric version):
-4 aluminium gridbeams of 1,2 meter in length
-6 aluminium gridbeams of 0,5 meter in length
+Bill of Materials (metric version, 40 mm GB):
+4 gridbeams of 1,2 meter in length
+6 gridbeams of 0,5 meter in length
 2 pillow block bearings
 an axle and wheel
-4 ABS plastic boards or shop-bought plastic tray
+4 wooden or ABS plastic boards (20 cm high) or shop-bought plastic tray
 nuts and bolts

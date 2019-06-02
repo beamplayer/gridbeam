@@ -3,6 +3,7 @@ All imperial gridbeam versions (1 inch, 1.5 inch and 2 inch) are accurately mode
 In the sketchup model, the 1 inch cubes are 25.4 mm cubes, 1.5 inch cubes are 38.1 mm cubes and 2 inch cubes are 50.8 mm cubes.
 Only one segment is modelled, so duplicate this segment to make gridbeams.
 To learn how to do this in sketchup: see https://www.youtube.com/watch?v=I7jE2XpCnkg
+This is only useful for openscad and openjscad models however, as in sketchup, it is easier to just model out beams (rather than duplicate segments).
 
 For 1 inch gridbeam that means: hole size= 11/32 inch (8.73 mm), bolt size= 5/16 inch (7.93 mm)
 For 1.5 inch gridbeam that means: hole size= 11/32 inch (8.73 mm), bolt size= 5/16 inch (7.93 mm)
@@ -13,7 +14,7 @@ Length of the gridbeams is per 1 foot and per 0.5 foot (upto a maximum length of
 For coloring:
 Wooden segments: brown (in sketchup, the brown is "0036 brown"
 Alu/steel segments: grey
-Segment surfaces where bolts go through the holes: blue
-Segment surfaces where axles go through the holes: yellow
+Segment surfaces where bolts go through the holes: blue (only useful for openscad and openjscad models)
+Segment surfaces where axles go through the holes: yellow (only useful for openscad and openjscad models)
 The segment surfaces where bolts go through are colored in blue so that no actual bolts need to be modeled out
 Holes: "0137 black" (in sketchup, holes are drawn on cube, no surfaces are deleted)

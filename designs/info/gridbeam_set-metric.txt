@@ -2,6 +2,7 @@ Improved version of the 1.5 inch aluminium gridbeam set (https://3dwarehouse.ske
 All metric gridbeam versions (25 mm, 40 mm and 50 mm) are accurately modeled herein.
 Only one segment is modelled, so duplicate this segment to make gridbeams.
 To learn how to do this in sketchup: see https://www.youtube.com/watch?v=I7jE2XpCnkg
+This is only useful for openscad and openjscad models however, as in sketchup, it is easier to just model out beams (rather than duplicate segments).
 
 For 25 mm gridbeam that means: hole size= 7 mm, bolt size= 6 mm
 For 40 mm gridbeam that means: hole size= 10 mm, bolt size= 9 mm
@@ -12,7 +13,7 @@ Length of the gridbeams is per 1 meter and per 0.5 meter and per 0.2 meter (upto
 For coloring:
 Wooden segments: brown (in sketchup, the brown is "0036 brown"
 Alu/steel segments: grey
-Segment surfaces where bolts go through the holes: blue
-Segment surfaces where axles go through the holes: yellow
+Segment surfaces where bolts go through the holes: blue (only useful for openscad and openjscad models)
+Segment surfaces where axles go through the holes: yellow (only useful for openscad and openjscad models)
 The segment surfaces where bolts go through are colored in blue so that no actual bolts need to be modeled out
 Holes: "0137 black" (in sketchup, holes are drawn on cube, no surfaces are deleted)
