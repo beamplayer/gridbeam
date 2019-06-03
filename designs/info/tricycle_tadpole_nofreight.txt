@@ -1,5 +1,6 @@
 A tricycle somewhat similar to the Rickey Horwitz Thunderbolt tricycle.
 (see http://www.ihpva.org/Projects/PracticalInnovations/tbolt.html)
-The Thunderbolt tricycle is changed in that a fairing is added, along with a back suspension.
+The Thunderbolt tricycle is changed in that a front fairing (windscreen) is added, along with a back suspension, and dimensions are changed to suit gridbeam sizes.
+The back bike wheel is a 622 mm (700C), the front wheels are 406 mm (20 inch)
 It can be fitted with an electric motor if preferred and recharging of the battery can be done at home 
 (see solar_shed.txt for details).

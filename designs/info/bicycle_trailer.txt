@@ -1,3 +1,5 @@
 A simple bicycle trailer.
 The adding of a trailer allows for regular bicycles to take along a good amount of freight.
-It is meant to upgrade your regular bicycle into a good yet cheap alternative to cars for hauling groceries, ....
+It is meant to upgrade your regular bicycle into a good yet cheap alternative to cars for hauling groceries, ...
+The attachment to the back wheel axle of the bike (back bike wheel is made invisible in model) is done through 90 degree angle plates into which holes are drilled (same diameter as bike wheel axle)
+The bike wheel is thought to be a 622 mm (700C), the trailer wheels are 406 mm (20 inch), any height difference is fixed with the angle plate height.
