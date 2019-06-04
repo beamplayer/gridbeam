@@ -1,2 +1,11 @@
 Design of a tadpole tricycle, which is able to carry freight (groceries, ...)
 Steering is done with the beam (handlebar) on top of the container box.
+
+Bill Of Materials (metric, all 40 mm GB except the 0,7m and 1,5m beams which are 50 mm ) 
+7x 0,5 m gridbeam
+2x 0,6 m gridbeam
+6x 0,8 m gridbeam
+1x 0,7 m gridbeam (50 mm)
+1x 1,5 m gridbeam (50 mm)
+2x 406 mm wheel
+1x 622 mm wheel

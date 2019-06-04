@@ -4,3 +4,15 @@ The Thunderbolt tricycle is changed in that a front fairing (windscreen) is adde
 The back bike wheel is a 622 mm (700C), the front wheels are 406 mm (20 inch)
 It can be fitted with an electric motor if preferred and recharging of the battery can be done at home 
 (see solar_shed.txt for details).
+
+
+Bill Of Materials (metric, all 40 mm GB except the 0,7m, 0,5m and 1,5m beams which are 50 mm ) 
+2x 0,6 m gridbeam
+1x 0,2 m gridbeam
+2x 0,8 m gridbeam
+4x 0,4 m gridbeam
+2x 0,7m gridbeam (50 mm)
+1x 1,5 m gridbeam (50 mm)
+3x 0,5m gridbeam (50 mm)
+2x 406 mm wheel
+1x 622 mm wheel

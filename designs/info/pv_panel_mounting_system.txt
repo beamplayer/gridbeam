@@ -13,3 +13,10 @@ In the metric gridbeam version, it is 0,5m high, 1m long and 2m wide with a 2m w
 The beams are secured in a box shape by means of angle plates. The inner frame is secured to the axle (this can not be seen in model).
 Pollow block bearings are attached to the outer frame and allow the axle to rotate freely on them.
 The inner frame is also rather small (beams are 1,5m and 0,8m).
+
+Bill Of Materials (metric, all 40 mm GB) 
+2x 1,5m gridbeam
+2x 0,6m gridbeam
+4x 1m gridbeam
+4x 2m gridbeam
+4x 0,5m gridbeam
