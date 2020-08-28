@@ -1,7 +1,7 @@
 A cold-frame modeled after the "Swedish Homestead" cold frame.
 It consists of 2 sides (plyboard, hardboard or ABS plastic, or simply made from 5 wooden boards of 16 cm or 7 inch in height).
 The slope of the sides depends on your location. Use 45° slope at 20° latitude, 50° slope at 30° latitude, 60° slope at 40° latitude, 70° slope at 50° latitude, 80° slope at 60° latitude
-Have the cold frame facing south (in northern hemisphere) and facing south (if you are in the southern hemisphere).
+Have the cold frame facing south (in northern hemisphere) and facing north (if you are in the southern hemisphere).
 Wooden gridbeams are used due to the better thermal properties (using alu or steel gridbeams would cool the cold frame).
 The cold frame is best bolted straight unto a building (i.e. wooden shack) so that the back side does not need to be made.
 
@@ -18,3 +18,12 @@ Bill of Materials (metric version, 40mm GB):
 2 wooden gridbeams of 2,4 meter in length
 2 sides (see above)
 flexible (roll-up) plastic
+
+An alternative version could be made which is 2m wide by 1,5m long and 1m high.
+A short roof can be made using 0,5m beams, after which the slope starts. 
+The side panels can be made using 1 panel of 1m x 1m and another similar sized panel which is cut in half diagonally.
+
+Another alternative is to just make a simple box-form with the gridbeams and drape over 2 plastics (of around 2m x 2m).
+This will be less able to catch sunlight, but for certain applications (i.e. cuttings starting), much sunlight isn't good either.
+Rather, white plastics (rather then fully transparent ones) need to be used anyhow, the cuttings need to be quite close to the plastic too,
+(meaning 1m high will be too high) and the trays need to be placed on gravel or bricks (for good drainage). Air moisture needs to be high.
